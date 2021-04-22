@@ -1,0 +1,17 @@
+{
+    "a2aac460-4901-4a39-8f93-b79d0096b35c": {
+        "data": "hwQQABAAAAAAAMDMAAAAAADA3N0PAAAAAN/d7f0A8A/w3f3v/QDf/e/d3d39/979793d3dz+v/zv3v3f7e7f/e/u3d3u7t797+7u7u7uzv3w7u7u7+78//C9+//v7v0P8N3NAPC+/QAAzwwAAP8PAAAA8P///w8AAADw7u4PAAAAAAD//wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImages.image0"
+    },
+    "7df77292-079f-4a97-f042-3c5fd3793d86": {
+        "data": "hwQYABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P8AAAAAAAAAAAAAwLEAAAAAAAAA//8PH/sAAAAAAAD/3b38H7EAAAAAAPAbEd29H/sAAAAAAPAREb0czPEPAAAAAB8REfEfvf//AAAAAB8REdER+///AAAAAB8REdERsf//AAAAAB8REfEf+/8PAAAAAPAREb0cHPsAAAAAAPAbEd39sQ8AAAAAAAD/3b38EQsAAAAAAAAA////sQ8AAAAAAAAAAADwHAsAAAAAAAAAAAAA/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImages.image1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
